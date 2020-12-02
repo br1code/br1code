@@ -10,12 +10,12 @@ I think the best way to learn something is to understand **how it works under th
 
 :lock: Safety and trust
 
-## Goals for 2020
+## Goals for 2021
 :books: Build a free web platform where I can teach programming<br>
 
 :crying_cat_face: Make enough money to rescue more homeless cats (I already have 6 at home)<br>
 
-:computer: Keep studying. Here's a list of the topics I'm learning **in depth** this year:
+:computer: Keep studying. Here's a list of the topics I want to learn **in depth** next year:
 - Internet:
   - How HTTP works?
   - DNS and how it works?

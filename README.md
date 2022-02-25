@@ -96,9 +96,6 @@ I think the best way to learn something is to understand **how it works under th
 ## Wanna learn how to code?
 Contact me at brunogiovagnoli@gmail.com. I'd be happy to help you :metal:
 
-## Wanna chat?
-You can find me on [Twitter](https://twitter.com/br1code) and [Instagram](https://www.instagram.com/br1code).
-
 <!--
 **br1code/br1code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

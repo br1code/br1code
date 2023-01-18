@@ -1,35 +1,16 @@
-### Bruno Giovagnoli - @br1code 
+<div align='center'>
 
-Hi! :godmode:  My name is Bruno and I'm a software developer. I like to build things and teach programming.
-I believe the best way to learn something is to understand **how it works under the hood**, so that's what I do when it comes to learning and teaching programming.
+<h3><samp><strong>Bruno Giovagnoli</strong> 👋 </samp></h3>
 
-## My values
+<p> <samp><strong>Working</strong> as a Software Developer for 4+ years, <br> <strong>Pursuing</strong> a Bachelor's Degree in Computer Science, <br> <strong>Studying</strong> Game Development and Network Programming, <br> <strong>Teaching</strong> how to code to friends and students since 2018, <br> <strong>Improving</strong> my English and French every day.</samp></p>
 
-:computer: Quality code
+<br>
 
-:sparkles: Curiosity<br>
+[![](img/twitter.png)](https://twitter.com/br1code/#gh-light-mode-only)
+[![](img/linkedin.png)](https://www.linkedin.com/in/bruno-giovagnoli/#gh-light-mode-only)
+[![](img/mail.png)](mailto:brunogiovagnoli@gmail.com/#gh-light-mode-only)
+[![](img/twitter-light.png)](https://twitter.com/br1code/#gh-dark-mode-only)
+[![](img/linkedin-light.png)](https://br.linkedin.com/#gh-dark-mode-only)
+[![](img/mail-light.png)](mailto:brunogiovagnoli@gmail.com/#gh-dark-mode-only)
 
-:white_check_mark: Willing to make things right<br>
-
-:lock: Safety and trust
-
-## Do you have a job for me?
-Here is my [LinkedIn](https://www.linkedin.com/in/bruno-giovagnoli/), let's chat!
-
-## Wanna learn how to code?
-Contact me at brunogiovagnoli@gmail.com. I'd be happy to help you :metal:
-
-<!--
-**br1code/br1code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>

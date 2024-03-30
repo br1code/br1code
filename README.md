@@ -2,7 +2,7 @@
 
 <h3><samp><strong>Bruno Giovagnoli</strong> 👋 </samp></h3>
 
-<p> <samp><strong>Working</strong> as a Software Developer for 6+ years, <br> <strong>Pursuing</strong> a Degree in Computer Science, <br> <strong>Studying</strong> Game Development and Network Programming, <br> <strong>Teaching</strong> how to code to friends and students since 2018, <br> <strong>Improving</strong> my English and French every day.</samp></p>
+<p> <samp><strong>Working</strong> as a Software Developer for 6+ years, <br> <strong>Pursuing</strong> a Degree in Game Development, <br> <strong>Studying</strong> Game Development and Network Programming, <br> <strong>Teaching</strong> how to code to friends and students since 2018, <br> <strong>Improving</strong> my English and French every day.</samp></p>
 
 <br>
 

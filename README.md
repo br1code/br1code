@@ -6,10 +6,8 @@
 
 <br>
 
-[![](img/twitter.png)](https://twitter.com/br1code/#gh-light-mode-only)
 [![](img/linkedin.png)](https://www.linkedin.com/in/bruno-giovagnoli/#gh-light-mode-only)
 [![](img/mail.png)](mailto:brunogiovagnoli@gmail.com/#gh-light-mode-only)
-[![](img/twitter-light.png)](https://twitter.com/br1code/#gh-dark-mode-only)
 [![](img/linkedin-light.png)](https://www.linkedin.com/in/bruno-giovagnoli/#gh-dark-mode-only)
 [![](img/mail-light.png)](mailto:brunogiovagnoli@gmail.com/#gh-dark-mode-only)
 
